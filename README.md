@@ -4,6 +4,7 @@ Instructions:
 
 1. Visit the OWASP official website: https://owasp.org/.
 
+
 2. Provide a brief introduction to OWASP by answering:
    
 What is OWASP, and why is it important?
@@ -18,9 +19,11 @@ How often is the OWASP Top 10 updated, and why does it change?
 
 The OWASP Top 10 is updated in a three to four year cycle that depends on factors like the development and emergent nature of new threats, changes in the security ecosystem and the need to provide more accurate guidance. The most recent update was in 2021 with its predecessors in 2017, 2013 and 2010. The OWASP community keeps a close eye on emerging trends and vulnerabilities to make sure their list stays up-to-date and genuinely helpful for developers and security experts.
 
+
 3. Select one security risk from the OWASP Top 10.
 
 A03:2021-Injection
+
 
 4. Provide a detailed analysis of the selected risk, including:
    
@@ -36,9 +39,11 @@ Prevention: How can developers protect web applications from this risk?
 
 To defend against injection vulnerabilities, developers should always use parameterized queries or prepared statements, which separate SQL logic from input data. This guarantees that user inputs are not regarded as executable code but only as data. An ORM framework to formulate the raw SQL queries would also decrease the injection chances. Another key area in which to focus is input validation, which allows applications to strictly enforce acceptable input types and formats. Proper escaping can be used to neutralize harmful characters when user input must be used in a command or query. In addition to all of this, the least privilege principle should also be applied where database accounts used by applications should have only the necessary permissions they require. Web Application Firewalls (WAFs) can be used by developers to monitor and filter out harmful input and security testing tools such as OWASP ZAP or SQLMap can be used on a regular basis to run tests for vulnerabilities in code. Working to adopt these best practices can go a long way to help developers reduce the threat of injection attacks and keep their web applications safe from serious security breaches. 
 
+
 5. Research a real-world web security breach that reflects your selected risk.
    
 Equifax Data Breach (2017)
+
 
 6. Answer the following in relation to the chosen risk:
    
@@ -61,6 +66,7 @@ Firewall for Web Applications (WAF) - Malicious injection attempts may have been
 Frequent penetration tests and security audits - Vulnerabilities may have been found and repaired by security testing before attackers took use of them.
 
 The Principle of Least Privilege - Limiting access to databases and applications might have lessened the breach's effects.
+
 
 REFERENCES
 
