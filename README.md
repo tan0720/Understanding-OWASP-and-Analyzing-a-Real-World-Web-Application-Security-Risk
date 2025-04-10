@@ -6,10 +6,8 @@ Instructions:
 What is OWASP, and why is it important?
 The Open Web Application Security Project (OWASP) is a global non-profit that aims to make software more secure. Established in 2001, OWASP is a community-driven initiative that seeks to assist developers, security experts and organizations with the resources, tools and education needed to fix the vulnerabilities present in their web and mobile applications. Because its projects are not tied to any particular vendor, OWASP can be considered a neutral vendor which adds credibility in the cybersecurity industry. OWASP is vital in today’s world because of the increased reliance on web applications for a wide range of business activities, communication and commercial purposes. With the advancement of technology comes the associated risks and vulnerabilities that come with them. The proactive and reactive measures that companies and users need to take because of insecure APIs, ransomware attacks, data breaches and other severe threats are exceedingly common. OWASP’s mission is to aid organizations and developers in adopting practices that reduce these risks.
 
-
 What is the OWASP Top 10, and how does it help organizations?
 OWASP Top 10 is a well-known document in the world, which describes the 10 most serious things that threaten the safety of web applications. Originally published in 2003, it has been amended periodically to address the changing threat landscape. The most recent edition (from 2021) continues its work as an all-in-one resource for developers, security pros, and organizations, summarizing the most prevalent and powerful weaknesses that can be exploited to compromise web apps. For organizations involved in the development or deployment of web applications, the OWASP Top 10 is commonly used as a security benchmark. The OWASP Top 10 provides a roadmap for developers to follow in order to address security risks during the software development lifecycle, giving them the knowledge to incorporate security best practices and inhibit vulnerabilities from forming as early as possible.
-
 
 How often is the OWASP Top 10 updated, and why does it change?
 The OWASP Top 10 is updated in a three to four year cycle that depends on factors like the development and emergent nature of new threats, changes in the security ecosystem and the need to provide more accurate guidance. The most recent update was in 2021 with its predecessors in 2017, 2013 and 2010. The OWASP community keeps a close eye on emerging trends and vulnerabilities to make sure their list stays up-to-date and genuinely helpful for developers and security experts.
@@ -46,8 +44,13 @@ The Principle of Least Privilege - Limiting access to databases and applications
 
 REFERENCES
 Portnox. (2025). What is OWASP & why is it important? Retrieved from https://www.portnox.com/cybersecurity-101/what-is-owasp-why-is-it-important/#:~:text=OWASP%20is%20important%20because%20web,the%20risks%20associated%20with%20vulnerabilities
+
 Barracuda. (2025). OWASP Top 10. Retrieved from https://www.barracuda.com/support/glossary/owasp-top-10#:~:text=The%20Top%2010%20lists%20are,focuses%20on%20improving%20software%20security
+
 Kiuwan. (2024, June 27). What Is New in the OWASP Top 10 in 2024? Retrieved from https://www.kiuwan.com/blog/owasp-top-10/#:~:text=The%20OWASP%20Top%2010%20is,2017%2C%202013%2C%20and%202010
+
 OWASP. (2021). A03:2021 – Injection. Retrieved from https://owasp.org/Top10/A03_2021-Injection/   
+
 Breachsense. (2024, December 8). Equifax Data Breach Explained: A Case Study. Retrieved from https://www.breachsense.com/blog/equifax-data-breach/ 
+
 Fruhlinger, J. (2020, February 12). Equifax data breach FAQ: What happened, who was affected, what was the impact? Retrieved from https://www.csoonline.com/article/567833/equifax-data-breach-faq-what-happened-who-was-affected-what-was-the-impact.html 
