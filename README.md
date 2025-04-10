@@ -1,4 +1,4 @@
-##Task 1: OWASP Top 10 Risk Analysis & Case Study
+Task 1: OWASP Top 10 Risk Analysis & Case Study
 
 Instructions:
 
@@ -22,7 +22,7 @@ The OWASP Top 10 is updated in a three to four year cycle that depends on factor
 
 A03:2021-Injection
 
-5. Provide a detailed analysis of the selected risk, including:
+4. Provide a detailed analysis of the selected risk, including:
    
 Risk description: What does this vulnerability mean?
 
@@ -40,7 +40,7 @@ To defend against injection vulnerabilities, developers should always use parame
    
 Equifax Data Breach (2017)
 
-7. Answer the following in relation to the chosen risk:
+6. Answer the following in relation to the chosen risk:
    
 What happened in the breach?
 
