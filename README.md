@@ -3,6 +3,7 @@ Instructions:
 1. Visit the OWASP official website: https://owasp.org/.
 
 2. Provide a brief introduction to OWASP by answering:
+   
 What is OWASP, and why is it important?
 The Open Web Application Security Project (OWASP) is a global non-profit that aims to make software more secure. Established in 2001, OWASP is a community-driven initiative that seeks to assist developers, security experts and organizations with the resources, tools and education needed to fix the vulnerabilities present in their web and mobile applications. Because its projects are not tied to any particular vendor, OWASP can be considered a neutral vendor which adds credibility in the cybersecurity industry. OWASP is vital in today’s world because of the increased reliance on web applications for a wide range of business activities, communication and commercial purposes. With the advancement of technology comes the associated risks and vulnerabilities that come with them. The proactive and reactive measures that companies and users need to take because of insecure APIs, ransomware attacks, data breaches and other severe threats are exceedingly common. OWASP’s mission is to aid organizations and developers in adopting practices that reduce these risks.
 
@@ -16,6 +17,7 @@ The OWASP Top 10 is updated in a three to four year cycle that depends on factor
 A03:2021-Injection
 
 4. Provide a detailed analysis of the selected risk, including:
+   
 Risk description: What does this vulnerability mean?
 Injection vulnerabilities occur when an application mistakenly treats untrusted user input, such as text in a form or search bar, as executable code. An attacker can exploit this vulnerability by injecting malicious commands to trick the application into performing unintended actions. For example, in a SQL injection attack, an attacker might enter a SQL statement into a login field. If the application fails to validate or filter this input, malicious SQL code could be executed, potentially exposing sensitive data, deleting records, or even granting the attacker control over the database. To prevent this from happening, all user input must be properly validated and filtered before it is processed.
 
@@ -29,6 +31,7 @@ To defend against injection vulnerabilities, developers should always use parame
 Equifax Data Breach (2017)
 
 6. Answer the following in relation to the chosen risk:
+   
 What happened in the breach?
 A vulnerability (CVE-2017-5638) in the web application framework Apache Struts was made public in March 2017. Through injection attacks, this vulnerability enabled attackers to remotely carry out arbitrary commands. Equifax's systems were left vulnerable because they neglected to repair the flaw. In May 2017, attackers used malicious commands injected into web requests to take advantage of the unpatched system. Attackers stole 147 million people's names, Social Security numbers, birth dates, and addresses during the 76 days that the breach remained undiscovered. Equifax only became aware of the hack in July 2017 and made it public in September of the same year.
 
