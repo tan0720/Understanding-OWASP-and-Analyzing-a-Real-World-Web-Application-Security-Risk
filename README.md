@@ -1,3 +1,24 @@
+Understanding OWASP and Analyzing a Real World Web Application Security Risk
+
+
+LECTURER: 
+
+ENCIK KHAIRUL AMIN
+
+
+PREPARED BY: 
+
+1. JASON RAJ A/L EDWARD
+   
+2. ASSAMI'AH BINTI NORHARMIZI
+   
+3. THEVISRI A/P SIVAM
+   
+4. NURUL HIDAYAH BINTI MUHAMMAD
+   
+5. TAN BO JAN
+
+
 Task 1: OWASP Top 10 Risk Analysis & Case Study
 
 Instructions:
