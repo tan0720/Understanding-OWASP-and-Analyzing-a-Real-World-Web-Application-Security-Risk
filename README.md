@@ -53,9 +53,13 @@ The attackers took use of an unpatched injection vulnerability in Apache Struts 
 What could have prevented the attack?
 
 Patching and updating on time - The assault may have been avoided if Equifax had installed the Apache Struts security patch as soon as it was made available.
+
 Validation and Sanitisation of Input - Command injection hazards might have been reduced with proper input validation and escape.
+
 Firewall for Web Applications (WAF) - Malicious injection attempts may have been identified and stopped by a WAF before they reached the web server.
+
 Frequent penetration tests and security audits - Vulnerabilities may have been found and repaired by security testing before attackers took use of them.
+
 The Principle of Least Privilege - Limiting access to databases and applications might have lessened the breach's effects.
 
 REFERENCES
